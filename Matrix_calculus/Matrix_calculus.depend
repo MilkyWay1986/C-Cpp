@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1575296612 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/useMatrixCalculus.cpp
+	<iostream>
+	"MatrixCalculus.h"
+
+1573755734 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/ConsoleInputOutput.cpp
+	<iostream>
+	<cmath>
+	"ConsoleInputOutput.h"
+
+1573743641 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/СonsoleInputOutput.h
+	"AbstractInputOutput.h"
+
+1573752517 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/AbstractInputOutput.h
+
+1575277487 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/ConsoleInputOutput.h
+	"Matrix.h"
+
+1574156543 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/FileInputOutput.cpp
+	<fstream>
+	<string>
+	<algorithm>
+	<cstdlib>
+	"FileInputOutput.h"
+	"Matrix.h"
+
+1575315918 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/FileInputOutput.h
+	<iostream>
+	<fstream>
+	<string>
+	"Matrix.h"
+
+1575399695 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/Matrix.h
+	<utility>
+	<typeinfo>
+	<iostream>
+	<cmath>
+	<cassert>
+
+1573814184 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/AbstractArray.h
+
+1573887042 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/Matrix.cpp
+	<iostream>
+	<cmath>
+	"Matrix.h"
+
+1573851944 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/Operations.cpp
+	<iostream>
+	<cmath>
+	"Operations.h"
+
+1573851481 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/Operations.h
+	<iostream>
+	<cmath>
+
+1574188810 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/useMatrixCalculus.h
+	<iostream>
+	<cmath>
+	"ConsoleInputOutput.h"
+	"FileInputOutput.h"
+	"Matrix.h"
+
+1575321741 /opt/CODEBLOCKS/PROJECTS/Programming2/Matrix_calculus/MatrixCalculus.h
+	"Matrix.h"
+	"ConsoleInputOutput.h"
+	"FileInputOutput.h"
+
+1575308763 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Point.h
+	"class_Line.h"
+	<cmath>
+
+1572254777 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Line.h
+	<cmath>
+

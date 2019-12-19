@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="FileInputOutput.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1961" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="Matrix.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1342" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="85" />
+			<Collapse line="93" />
+			<Collapse line="98" />
+			<Collapse line="105" />
+			<Collapse line="146" />
+			<Collapse line="192" />
+			<Collapse line="208" />
+			<Collapse line="219" />
+			<Collapse line="239" />
+		</Folding>
+	</File>
+	<File name="ConsoleInputOutput.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2764" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="43" />
+			<Collapse line="57" />
+		</Folding>
+	</File>
+	<File name="useMatrixCalculus.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6213" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="MatrixCalculus.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1791" topLine="27" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

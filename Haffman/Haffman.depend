@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576746757 source:/opt/CODEBLOCKS/PROJECTS/Programming2/Haffman/useHaffman.cpp
+	<iostream>
+	<string>
+	"HaffmanTree.h"
+
+1576579995 /opt/CODEBLOCKS/PROJECTS/Programming2/Haffman/List.h
+	<iostream>
+
+1576747129 /opt/CODEBLOCKS/PROJECTS/Programming2/Haffman/HaffmanTree.h
+	<string>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
