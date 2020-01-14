@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579025392 source:/opt/CODEBLOCKS/PROJECTS/Programming2/GRAPH/useGraph.cpp
+	<iostream>
+
+1578942152 /opt/CODEBLOCKS/PROJECTS/Programming2/GRAPH/graph.h
+	<iostream>
+	"queue.h"
+
+1578934621 /opt/CODEBLOCKS/PROJECTS/Programming2/GRAPH/queue.h
+
