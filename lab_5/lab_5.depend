@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573502061 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_5/class_Array.cpp
+	<iostream>
+	<math.h>
+	"class_Array.h"
+
+1573502007 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_5/class_Array.h
+	<iostream>
+
+1573502224 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_5/main.cpp
+	<iostream>
+	<math.h>
+	"class_Array.h"
+

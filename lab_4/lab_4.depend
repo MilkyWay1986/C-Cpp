@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1573469724 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_4/main.cpp
+	<iostream>
+	"class_Base_poisk.h"
+	"class_Met_xord.h"
+	"class_Met_Newton.h"
+	"Baza_func.h"
+
+1573469284 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_4/class_Base_poisk.h
+
+1573469668 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_4/class_Met_xord.h
+	<cmath>
+	"class_Base_poisk.h"
+	"Baza_func.h"
+
+1573466615 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_4/Baza_func.h
+
+1573470106 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_4/class_Met_Newton.h
+	<iostream>
+	<cmath>
+	"class_Base_poisk.h"
+	"Baza_func.h"
+

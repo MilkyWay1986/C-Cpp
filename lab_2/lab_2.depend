@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1573417584 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Baza_tab.cpp
+	"class_Baza_tab.h"
+
+1572260025 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Baza_tab.h
+	<cmath>
+	<iostream>
+	"../lab_1/class_Point.h"
+
+1573390757 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Point.h
+	"class_Line.h"
+	<cmath>
+
+1572254777 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Line.h
+	<cmath>
+
+1573415366 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Circle.cpp
+	"class_Circle.h"
+	"../lab_1/class_Point.cpp"
+	"../lab_1/class_Line.cpp"
+
+1573476453 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Circle.h
+	<cmath>
+	"../lab_1/class_Point.h"
+	"../lab_1/class_Line.h"
+
+1573390780 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Point.cpp
+	"class_Point.h"
+	"class_Line.h"
+
+1573397257 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_1/class_Line.cpp
+	"class_Line.h"
+
+1573420303 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Interval_null.cpp
+	"class_Interval_nul.h"
+
+1573420232 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/class_Interval_nul.h
+	"class_Baza_tab.h"
+	"../lab_1/class_Point.h"
+
+1573476357 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/main.cpp
+	"main.h"
+
+1573415307 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/main.h
+	"class_Circle.h"
+	"class_Baza_tab.h"
+	"Baza_func.h"
+	"class_Interval_nul.h"
+	<iostream>
+
+1573416826 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/Baza_func.h
+	<cmath>
+

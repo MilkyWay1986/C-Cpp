@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1573464827 source:/opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/main.cpp
+	<cmath>
+	<iostream>
+	"class_Int_trap_virt.h"
+	"class_Baza_Integ_virt.h"
+	"class_Int_parab_virt.h"
+	"class_Met_Integral.h"
+	"Baza_func.h"
+
+1573463593 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/class_Int_trap_virt.h
+	<cmath>
+	<iostream>
+	"class_Baza_Integ_virt.h"
+	"../lab_2/Baza_func.h"
+
+1573461679 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/class_Baza_Integ_virt.h
+
+1573416826 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_2/Baza_func.h
+	<cmath>
+
+1573464845 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/class_Int_parab_virt.h
+	<cmath>
+	<iostream>
+	"class_Baza_Integ_virt.h"
+	"../lab_2/Baza_func.h"
+
+1573461804 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/class_Met_Integral.h
+	"class_Baza_Integ_virt.h"
+
+1573462294 /opt/CODEBLOCKS/PROJECTS/Programming2/lab_3_integrals/Baza_func.h
+
